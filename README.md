@@ -2,8 +2,7 @@
 
 A passionate frontend developer from Ukraine. I'm a switcher.
 
-![Profile views](https://komarev.com/ghpvc/?username=valpvf&label=Profile%20views&color=0e75b6&style=flat)
-
+![Profile views](https://komarev.com/ghpvc/?username=valpvf&label=Profile%20views&color=0e75b6&style=flat) 
 :mailbox: Reach me out! 
 [![Static Badge](https://img.shields.io/badge/%40ValeriiPozhydaiev%20-%200088cc?style=flat&logo=telegram&logoColor=white&labelColor=0088cc&color=0088cc&link=https%3A%2F%2Ft.me%2FValeriiPozhydaiev)](https://t.me/ValeriiPozhydaiev)
 [![Static Badge](https://img.shields.io/badge/Valerii%20Pozhydaiev%20-%200a66c2?style=flat&logo=Linkedin&logoColor=white&labelColor=0a66c2&color=0a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvalerii-pozhydaiev%2F)](https://www.linkedin.com/in/valerii-pozhydaiev/)
@@ -22,15 +21,15 @@ A passionate frontend developer from Ukraine. I'm a switcher.
 
 [![Valerii's GitHub stats](https://github-readme-stats.vercel.app/api?username=valpvf&show=reviews,prs_merged,prs_merged_percentage&&show_icons=true)](#)
 
-<a href="https://github.com/valpvf">
+<p><a href="https://github.com/valpvf">
   <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=valpvf" />
 </a>
 <a href="https://github.com/valpvf">
   <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valpvf&layout=compact&langs_count=8&card_width=10%" />
-</a>
+</a></p>
 
-
-
+####
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=valpvf)](#)
+
 
