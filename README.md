@@ -14,4 +14,6 @@
 
 ### Tutorials
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valpvf&show_icons=true&theme=nord)
+[![Valerii's GitHub stats](https://github-readme-stats.vercel.app/api?username=valpvf&show_icons=true)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valpvf&layout=compact)](#)
