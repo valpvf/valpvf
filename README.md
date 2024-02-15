@@ -23,10 +23,10 @@ A passionate frontend developer from Ukraine. I'm a switcher.
 [![Valerii's GitHub stats](https://github-readme-stats.vercel.app/api?username=valpvf&show=reviews,prs_merged,prs_merged_percentage&&show_icons=true)](#)
 
 <div><a href="https://github.com/valpvf">
-  <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=valpvf" />
+  <img height=180 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=valpvf" />
 </a>
 <a href="https://github.com/valpvf">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valpvf&layout=compact&langs_count=8&card_width=17%" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valpvf&layout=compact&langs_count=8&card_width=10%" />
 </a>
 </div>
 
